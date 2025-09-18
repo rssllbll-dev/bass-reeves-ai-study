@@ -1,0 +1,11 @@
+case_id,year,demographic_primary,professional_role,court_level,constitutional_issue,ai_presence,bias_classification,time_period
+FC001,1876,1,1,1,1,1,2,1
+FC002,1883,2,2,2,4,0,1,1
+FC003,1895,3,3,1,2,0,1,1
+FC004,1902,1,1,2,1,1,3,2
+FC005,1914,4,3,3,1,0,1,2
+FC006,1923,2,2,1,4,1,2,3
+FC007,1931,3,3,2,2,0,1,3
+FC008,1887,1,1,1,3,1,2,1
+FC009,1905,2,2,1,4,0,1,2
+FC010,1928,4,3,1,1,3,4,3
