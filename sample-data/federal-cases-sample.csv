@@ -1,0 +1,11 @@
+claim_id,content_type,claim_text_snippet,accuracy_rating,verification_source_tier,fabrication_type,constitutional_domain
+AC001,1,"14th Amendment ratified 1868",1,1,NA,1
+AC002,2,"Bass Reeves arrested 3000+ outlaws",0,2,2,NA
+AC003,3,"Plessy v. Ferguson (1896)",1,1,NA,NA
+AC004,1,"Equal Protection applies to state actors",1,1,NA,1
+AC005,2,"Reeves received lower pay than white deputies",0,1,1,NA
+AC006,3,"Brown v. Board 347 U.S. 483",1,1,NA,NA
+AC007,1,"Strict scrutiny standard established",1,2,NA,1
+AC008,2,"Reeves worked in Indian Territory",1,1,NA,NA
+AC009,3,"Loving v. Virginia (1967) 388 U.S. 1",1,1,NA,NA
+AC010,2,"Reeves born into slavery in Arkansas",1,2,NA,NA
